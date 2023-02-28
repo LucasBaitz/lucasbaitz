@@ -8,4 +8,4 @@
 - ⚡ Fato engraçado: Sou super competitivo em jogos de FPS
 
 
-<img height="300px"  src="https://github-readme-stats.vercel.app/api?username=LucasBaitz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBaitz&hide=html&layout=compact&theme=buefy" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=LucasBaitz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBaitz&hide=html&layout=compact&theme=buefy" />
