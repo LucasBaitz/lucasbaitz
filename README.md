@@ -1,3 +1,7 @@
+<img align="center" width="510" src="imgs/svg-banner.svg" />
+
+
+
 - 🔭 Atualmente procuro realizar serviços como freelance
 - 🌱 Estou procurando me aprofundar nas minhas linguages e technologias favoritas como React e .NET 
 - 📫 Como me contactar?: Você pode me seguir nas minhas redes sociais ou me mandar um email!
