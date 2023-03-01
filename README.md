@@ -1,4 +1,6 @@
-<img align="center" width="510" src="imgs/svg-banner.svg" />
+<p align="center">
+  <img align="center" width="auto" src="imgs/svg-banner.svg" />
+<p/>
 
 
 
