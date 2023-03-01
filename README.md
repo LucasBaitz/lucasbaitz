@@ -1,7 +1,3 @@
-
-
-
-
 - 🔭 Atualmente procuro realizar serviços como freelance
 - 🌱 Estou procurando me aprofundar nas minhas linguages e technologias favoritas como React e .NET 
 - 📫 Como me contactar?: Você pode me seguir nas minhas redes sociais ou me mandar um email!
@@ -34,24 +30,4 @@
   </a> 
 </p>
 
-### Languages and Tools
 
-<br/>
-<span>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img
-      src="icons/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="icons/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-</span>
