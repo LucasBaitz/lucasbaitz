@@ -4,14 +4,6 @@
 - ⚡ Fato engraçado: Sou super competitivo em jogos de FPS
 
 
-<p align="center">
-   <span>
-    <img align="center" width="510" src="banners/programming-banner.svg" />
-  </a>
-  <span>
-    <img align="center" width="350" src="banners/demon-guts.gif"/>
-  </a>
-</p>
 
 
 <p align="center">
