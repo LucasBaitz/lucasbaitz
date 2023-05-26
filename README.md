@@ -4,7 +4,7 @@
 
 
 
-- 🔭 Atualmente procuro realizar serviços como freelance em de um estagio
+- 🔭 Atualmente procuro realizar serviços como freelance em busca de um estagio
 - 🌱 Estou procurando me aprofundar nas minhas linguages e technologias favoritas como React e .NET 
 - 📫 Como me contactar?: Você pode me seguir nas minhas redes sociais ou me mandar um email!
 - ⚡ Fato engraçado: Sou super competitivo em jogos de FPS
